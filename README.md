@@ -2,7 +2,7 @@
 
 Colour template to beautify bash script output
 ```
-git clone 
+git clone https://github.com/stephenturns/bashcolours.git
 ```
 
 ## Execute
